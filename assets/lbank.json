@@ -1,0 +1,19 @@
+{
+    "result": "true",
+    "data": [
+      {
+        "symbol": "eth_usdt",
+        "ticker": {
+          "high": 1704,
+          "vol": 51614.3953,
+          "low": 1472.41,
+          "change": -9.22,
+          "turnover": 80505762.35,
+          "latest": 1504.42
+        },
+        "timestamp": 1661588016403
+      }
+    ],
+    "error_code": 0,
+    "ts": 1661588017948
+  }
